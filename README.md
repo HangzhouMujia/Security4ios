@@ -9,7 +9,7 @@ clone 项目到本地
 
 需要安装ruby和bundler以及jekyll
 ```
-git clone https://github.com/sdlchina/sdlchina-web.git
+git clone https://github.com/zhangkn/Security4ios.git
 ```
 
 在项目根目录执行
